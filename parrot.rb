@@ -1,5 +1,5 @@
 
 
-def greeting(name, place)
-  puts "Hello, #{name} from #{place}!"
+def parrot(phrase= "Squawk!")
+  puts phrase
 end
