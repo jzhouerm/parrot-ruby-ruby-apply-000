@@ -1,3 +1,3 @@
 Def parrot(phrase="Squawk!")
-Puts phrase
+  Puts phrase
 parrot
