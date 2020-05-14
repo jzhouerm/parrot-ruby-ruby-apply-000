@@ -1,1 +1,2 @@
-Def parrot(="Squawk!")
+Def parrot(phrase="Squawk!")
+puts
